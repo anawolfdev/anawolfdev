@@ -1,11 +1,13 @@
-### Hi 👋, I am Ana Amaro, a SysAdmin and DevOps for 12 years who decided to reinvent herself and turn her technical profile into a FrontEnd Dev Jr. Currently, I am a mentor and help people with their personal brand on social networks. I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
+### Hi 👋, I'm Ana Amaro, a SysAdmin and DevOps for 12 years who decided to reinvent herself and turn her technical profile into a FrontEnd Dev Jr. Currently, I am a mentor and help people with their personal brand on social networks. I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
+
+You can find me 🌍 :
 
 <p align="center">
   <a href="https://twitter.com/AnaWhitewolf" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AnaWhiteWolf" height="28px" width="21px" />
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AnaWhiteWolf" width="21px" />
   </a>
   <a href="https://www.instagram.com/anawhitewolf/" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AnaWhiteWolf" height="28px" width="21px" />
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AnaWhiteWolf" width="21px" />
   </a>
 </p>
 
@@ -16,11 +18,11 @@
 (https://youtu.be/nHiXSuxHqpI)
 </p>
 
-#### 📸 Latest photos on [my Instagram](https://instagram.com/anawhitewolf):
-%{{latest_instagram}}%
+#### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
+![One Day](/oneday.pn)
 
 #### 📝 My Blog [Subconsciente Agitado](http://subconscienteagitado.blogspot.com/):
-%{{latest_articles}}%
+[Latest post](https://subconscienteagitado.blogspot.com/2020/06/liberacion-personal.html)
 
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning communication & marketing
