@@ -11,7 +11,6 @@
   </a>
 </p>
 
-<p>
 #### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): <p>
 ![#LosJuernesConPablo](/entrevistapablo.png)
 </p>
