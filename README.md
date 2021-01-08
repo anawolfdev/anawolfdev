@@ -6,8 +6,7 @@
   </a>
 </p>
 
-#### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): [#LosJuernesConPablo](https://youtu.be/nHiXSuxHqpI):
-%{{latest_youtube}}%
+#### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): [#LosJuernesConPablo](https://youtu.be/nHiXSuxHqpI)
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/anawhitewolf):
 %{{latest_instagram}}%
