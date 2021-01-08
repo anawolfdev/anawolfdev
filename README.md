@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ana Amaro, a SysAdmin and DevOps for 12 years who decided to reinvent herself and turn her technical profile into a FrontEnd Dev Jr. Currently, I am a mentor and help people with their personal brand on social networks. I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
 
-You can find me 🌍 :
+## You can find me 🌍 :
 
 <p align="center">
   <a href="https://twitter.com/AnaWhitewolf" target="blank">
@@ -11,6 +11,7 @@ You can find me 🌍 :
   </a>
 </p>
 
+<p>
 #### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): <p>
 ![#LosJuernesConPablo](/entrevistapablo.png)
 </p>
