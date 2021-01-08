@@ -2,20 +2,25 @@
 
 <p align="center">
   <a href="https://twitter.com/AnaWhitewolf" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AnaWhiteWolf" height="28px" width="28px" />
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AnaWhiteWolf" height="28px" width="21px" />
+  </a>
+  <a href="https://www.instagram.com/anawhitewolf/" target="blank">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AnaWhiteWolf" height="28px" width="21px" />
   </a>
 </p>
 
-#### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): [#LosJuernesConPablo](https://youtu.be/nHiXSuxHqpI)
+#### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): <p>
+![#LosJuernesConPablo](/entrevistapablo.png)
+</p>
+<p>
+(https://youtu.be/nHiXSuxHqpI)
+</p>
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/anawhitewolf):
 %{{latest_instagram}}%
 
 #### 📝 My Blog [Subconsciente Agitado](http://subconscienteagitado.blogspot.com/):
 %{{latest_articles}}%
-
-<!--
-**AnaAmaro/AnaAmaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning communication & marketing
@@ -25,4 +30,7 @@
 - 📫 How to reach me: amarovazquezana@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+
+[![AnaWhiteWolf's github stats](https://github-readme-stats.vercel.app/api?username=AnaAmaro&show_icons=true&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaAmaro&layout=compact&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
