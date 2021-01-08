@@ -19,7 +19,7 @@ You can find me 🌍 :
 </p>
 
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
-![One Day](/oneday.pn)
+![One Day](/oneday.png)
 
 #### 📝 My Blog [Subconsciente Agitado](http://subconscienteagitado.blogspot.com/):
 [Latest post](https://subconscienteagitado.blogspot.com/2020/06/liberacion-personal.html)
