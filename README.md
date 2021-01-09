@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="50%" />
+  <img src="/anaamaro.png" align="left" width="70%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="30%" />
 </div>
+
 
 ### I'm Ana Amaro, a SysAdmin and DevOps for 12 years who decided to reinvent herself and turn her technical profile into a FrontEnd Dev Jr. Currently, I am a mentor and help people with their personal brand on social networks. I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
 
@@ -16,14 +18,18 @@
 </p>
 
 #### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): <p>
-![#LosJuernesConPablo](/entrevistapablo.png)
+<div align="center">
+  <img src="/entrevistapablo.png" align="left" width="25%" />
+</div>
 </p>
 <p>
 (https://youtu.be/nHiXSuxHqpI)
 </p>
 
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
-![One Day](/oneday.png)
+<div align="center">
+  <img src="/oneday.png" align="left" width="25%" />
+</div>
 
 #### 📝 My Blog [Subconsciente Agitado](http://subconscienteagitado.blogspot.com/):
 [Latest post](https://subconscienteagitado.blogspot.com/2020/06/liberacion-personal.html)
