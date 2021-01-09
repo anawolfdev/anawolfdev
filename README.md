@@ -3,8 +3,8 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="30%" />
 </div>
 
-
-### I'm Ana Amaro, a SysAdmin and DevOps for 12 years who decided to reinvent herself and turn her technical profile into a FrontEnd Dev Jr. Currently, I am a mentor and help people with their personal brand on social networks. I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
+### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
+#### I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
 
 ## You can find me 🌍 :
 
