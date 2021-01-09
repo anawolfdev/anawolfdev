@@ -17,7 +17,8 @@
   </a>
 </p>
 
-#### 📹 My interview by [Pablo Sirera](https://pablosirera.com/): <p>
+#### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
+
 <div align="center">
   <img src="/entrevistapablo.png" align="left" width="25%" />
 </div>
