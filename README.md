@@ -20,8 +20,9 @@
 #### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
 
 <div align="center">
-  <img src="/entrevistapablo.png" align="left" width="25%" />
-  <a href="https://youtu.be/nHiXSuxHqpI" target="blank"></a>
+  <a href="https://youtu.be/nHiXSuxHqpI" target="blank">
+    <img src="/entrevistapablo.png" align="left" width="25%" />
+  </a>
 </div>
 
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
