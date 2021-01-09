@@ -21,11 +21,8 @@
 
 <div align="center">
   <img src="/entrevistapablo.png" align="left" width="25%" />
+  <a href="https://youtu.be/nHiXSuxHqpI" target="blank"></a>
 </div>
-</p>
-<p>
-(https://youtu.be/nHiXSuxHqpI)
-</p>
 
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
 <div align="center">
