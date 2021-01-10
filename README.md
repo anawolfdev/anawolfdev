@@ -11,7 +11,7 @@
 
 #### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
 
-<div align="center">
+<div align="left">
   <a href="https://youtu.be/nHiXSuxHqpI" target="blank">
     <img src="/entrevistapablo.png" align="center" width="25%" />
   </a>
