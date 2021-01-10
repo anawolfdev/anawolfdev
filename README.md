@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/anaamaro.png" align="center" width="70%" />
+  <img src="/anaamaro.png" align="center" width="60%" />
 </div>
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="25%" />
@@ -16,7 +16,8 @@
   </a>
 </div>
 
-<p></p>
+
+
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
 <div align="center">
   <img src="/oneday.png" align="left" width="25%" />
