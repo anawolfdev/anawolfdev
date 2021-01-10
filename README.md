@@ -23,14 +23,13 @@
   <img src="/oneday.png" align="center" width="25%" />
 </div>
 
-- 🔭 I’m currently working on freelance
+- 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning communication & marketing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I actively collaborate in the Dev community
 - 💬 Ask me about mentoring
 - 📫 How to reach me: amarovazquezana@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to dance and Marvel movies.
 
 [![AnaWhiteWolf's github stats](https://github-readme-stats.vercel.app/api?username=AnaAmaro&show_icons=true&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
 
