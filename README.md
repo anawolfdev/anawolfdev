@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://youtu.be/nHiXSuxHqpI" target="blank">
-    <img src="/entrevistapablo.png" align="left" width="25%" />
+    <img src="/entrevistapablo.png" align="center" width="25%" />
   </a>
 </div>
 
