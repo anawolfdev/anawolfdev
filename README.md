@@ -1,6 +1,7 @@
 <div align="center">
   <img src="/anaamaro.png" align="center" width="60%" />
 </div>
+
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="25%" />
 </div>
@@ -16,14 +17,15 @@
   </a>
 </div>
 
-
-
+<p></p>
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
+
 <div align="center">
   <img src="/oneday.png" align="left" width="25%" />
 </div>
   
 #### 📝 My Blog [Subconsciente Agitado](http://subconscienteagitado.blogspot.com/):
+
 [Latest post](https://subconscienteagitado.blogspot.com/2020/06/liberacion-personal.html)
 
 - 🔭 I’m currently working on freelance
