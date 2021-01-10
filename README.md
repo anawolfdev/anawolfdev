@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/anaamaro.png" align="center" width="70%" />
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="25%" />
 </div>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="25%" />
 
 ### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
 #### I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
