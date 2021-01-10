@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/anaamaro.png" align="left" width="70%" />
+  <img src="/anaamaro.png" align="center" width="70%" />
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="30%" />
 </div>
 
