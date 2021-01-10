@@ -19,7 +19,7 @@
 
 #### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
 
-<div align="center">
+<div align="left">
   <img src="/oneday.png" align="center" width="25%" />
 </div>
 
