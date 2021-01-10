@@ -1,21 +1,10 @@
 <div align="center">
   <img src="/anaamaro.png" align="center" width="70%" />
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="30%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="25%" />
 </div>
 
 ### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
 #### I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
-
-## You can find me 🌍 :
-
-<p align="center">
-  <a href="https://twitter.com/AnaWhitewolf" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AnaWhiteWolf" width="21px" />
-  </a>
-  <a href="https://www.instagram.com/anawhitewolf/" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AnaWhiteWolf" width="21px" />
-  </a>
-</p>
 
 #### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
 
