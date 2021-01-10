@@ -17,8 +17,7 @@
   </a>
 </div>
 
-<p></p>
-#### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
+#### Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
 
 <div align="center">
   <img src="/oneday.png" align="left" width="25%" />
