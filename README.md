@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/anaamaro.png" align="center" width="75%" />
+  <img src="/anaamaro.png" align="center" width="80%" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 
 <div align="left">
   <a href="https://youtu.be/nHiXSuxHqpI" target="blank">
-    <img src="/entrevistapablo.png" align="center" width="25%" />
+    <img src="/entrevistapablo.png" align="center" width="30%" />
   </a>
 </div>
 
 ###### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
 
 <div align="left">
-  <img src="/oneday.png" align="center" width="25%" />
+  <img src="/oneday.png" align="center" width="30%" />
 </div>
 
 ###### - 🔭 I’m currently working as a freelancer
@@ -29,7 +29,7 @@
 ###### - 💬 Ask me about mentoring
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
 ###### - 😄 Pronouns: She/Her
-###### - ⚡ Fun fact: I love to dance and Marvel movies.
+###### - ⚡ Fun fact: I love to dance and Marvel movies
 
 [![AnaWhiteWolf's github stats](https://github-readme-stats.vercel.app/api?username=AnaAmaro&show_icons=true&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
 
