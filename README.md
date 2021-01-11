@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="/anaamaro.png" align="center" width="70%" />
+  <img src="/anaamaro.png" align="center" width="75%" />
 </div>
 
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="30%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
 ##### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
@@ -23,13 +23,19 @@
   <img src="/oneday.png" align="center" width="25%" />
 </div>
 
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning communication & marketing
-- 👯 I actively collaborate in the Dev community
-- 💬 Ask me about mentoring
-- 📫 How to reach me: amarovazquezana@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to dance and Marvel movies.
+<div align="left">
+  <ul>
+    <li><H6>🔭 I’m currently working as a freelancer</H6></li>
+    <li><H6>🌱 I’m currently learning communication & marketing</H6></li>
+ </ul>
+</div>
+###### - 🔭 I’m currently working as a freelancer
+###### - 🌱 I’m currently learning communication & marketing
+###### - 👯 I actively collaborate in the Dev community
+###### - 💬 Ask me about mentoring
+###### - 📫 How to reach me: amarovazquezana@gmail.com
+###### - 😄 Pronouns: She/Her
+###### - ⚡ Fun fact: I love to dance and Marvel movies.
 
 [![AnaWhiteWolf's github stats](https://github-readme-stats.vercel.app/api?username=AnaAmaro&show_icons=true&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
 
