@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="/anaamaro.png" align="center" width="60%" />
+  <img src="/anaamaro.png" align="center" width="70%" />
 </div>
 
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="25%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="30%" />
 </div>
 
 ### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
