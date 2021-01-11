@@ -7,7 +7,7 @@
 </div>
 
 ##### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
-###### I contribute to the developer community by helping other colleagues and small communities to increase their potential and connect them through communication, respect and humility.
+###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
 
