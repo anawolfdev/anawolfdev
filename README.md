@@ -23,12 +23,6 @@
   <img src="/oneday.png" align="center" width="25%" />
 </div>
 
-<div align="left">
-  <ul>
-    <li><span font-size:10>🔭 I’m currently working as a freelancer</span></li>
-    <li><span font-size:10>🌱 I’m currently learning communication & marketing</span></li>
- </ul>
-</div>
 ###### - 🔭 I’m currently working as a freelancer
 ###### - 🌱 I’m currently learning communication & marketing
 ###### - 👯 I actively collaborate in the Dev community
