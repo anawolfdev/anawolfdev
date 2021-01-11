@@ -25,8 +25,8 @@
 
 <div align="left">
   <ul>
-    <li><H6>🔭 I’m currently working as a freelancer</H6></li>
-    <li><H6>🌱 I’m currently learning communication & marketing</H6></li>
+    <li><span font-size:10>🔭 I’m currently working as a freelancer</span></li>
+    <li><span font-size:10>🌱 I’m currently learning communication & marketing</span></li>
  </ul>
 </div>
 ###### - 🔭 I’m currently working as a freelancer
