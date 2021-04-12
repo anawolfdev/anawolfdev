@@ -6,7 +6,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
-##### Scrum Master in progress | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
+##### DevRel in progress | Scrum Master | FrontEnd Dev | SysAdmin & DevOps | I teach positioning classes in social and professional networks | Personal Brand
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
