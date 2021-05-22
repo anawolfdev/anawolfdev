@@ -17,12 +17,6 @@
   </a>
 </div>
 
-###### 📸 Latest photo on [my Instagram](https://instagram.com/anawhitewolf):
-
-<div align="left">
-  <img src="/oneday.png" align="center" width="30%" />
-</div>
-
 ###### - 🔭 I’m currently working as a freelancer
 ###### - 🌱 I’m currently learning about DevRel
 ###### - 👯 I actively collaborate in the Dev community
