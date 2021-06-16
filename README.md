@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="https://youtu.be/7fZGkV876SU" target="blank">
-    <img src="/entrevistapablo.png" align="center" width="30%" />
+    <img src="/peum.png" align="center" width="30%" />
   </a>
 </div>
 
