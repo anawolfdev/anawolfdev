@@ -6,7 +6,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
-##### DevRel in progress | Scrum Master | FrontEnd Dev | SysAdmin & DevOps | Personal Branding
+##### DevRel | Mentor | Scrum Master | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
@@ -17,8 +17,15 @@
   </a>
 </div>
 
-###### - 🔭 I’m currently working as a freelancer
-###### - 🌱 I’m currently learning about DevRel
+###### 🎙️ Podcast [PEUM](https://www.ivoox.com/episodio-83-comunicacion-empatia-devrel-audios-mp3_rf_71267519_1.html):
+
+<div align="left">
+  <a href="https://youtu.be/7fZGkV876SU" target="blank">
+    <img src="/entrevistapablo.png" align="center" width="30%" />
+  </a>
+</div>
+
+###### - 🔭 I’m currently looking for a DevRel position
 ###### - 👯 I actively collaborate in the Dev community
 ###### - 💬 Ask me about mentoring
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
