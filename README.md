@@ -9,19 +9,28 @@
 ##### DevRel | Mentor | Scrum Master | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
-###### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
-
-<div align="left">
-  <a href="https://youtu.be/nHiXSuxHqpI" target="blank">
-    <img src="/entrevistapablo.png" align="center" width="30%" />
-  </a>
-</div>
-
 ###### 🎙️ Podcast [PEUM](https://www.ivoox.com/episodio-83-comunicacion-empatia-devrel-audios-mp3_rf_71267519_1.html):
 
 <div align="left">
   <a href="https://youtu.be/7fZGkV876SU" target="blank">
     <img src="/peum.png" align="center" width="30%" />
+  </a>
+</div>
+
+###### 🎙️ Talking about Tech Community [CodeNoobs Conf 2021](https://codenoobsconf.com/):
+
+<div align="left">
+  <a href="https://youtu.be/2Oe0RGUbKfg" target="blank">
+    <img src="/peum.png" align="center" width="30%" />
+  </a>
+</div>
+
+
+###### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
+
+<div align="left">
+  <a href="https://youtu.be/nHiXSuxHqpI" target="blank">
+    <img src="/entrevistapablo.png" align="center" width="30%" />
   </a>
 </div>
 
