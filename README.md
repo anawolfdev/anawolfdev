@@ -17,14 +17,13 @@
   </a>
 </div>
 
-###### 🎙️ Talking about Tech Community [CodeNoobs Conf 2021](https://codenoobsconf.com/):
+###### 🗣 Talking about Tech Community [CodeNoobs Conf 2021](https://codenoobsconf.com/):
 
 <div align="left">
   <a href="https://youtu.be/2Oe0RGUbKfg" target="blank">
     <img src="/codenoobs.png" align="center" width="30%" />
   </a>
 </div>
-
 
 ###### 📹 [Pablo Sirera](https://pablosirera.com/) Interview:
 
