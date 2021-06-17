@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="https://youtu.be/2Oe0RGUbKfg" target="blank">
-    <img src="/peum.png" align="center" width="30%" />
+    <img src="/codenoobs.png" align="center" width="30%" />
   </a>
 </div>
 
