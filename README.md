@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/anaamaro.png" align="center" width="80%" />
+  <img src="/newbanner.png" align="center" width="80%" />
 </div>
 
 <div align="center">
