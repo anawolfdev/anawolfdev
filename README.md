@@ -6,7 +6,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
-##### DevRel | Mentor | Scrum Master | FrontEnd Dev | SysAdmin
+##### Mentor | Community Builder | DevRel | Scrum Master | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 🎙️ Podcast [PEUM](https://www.ivoox.com/episodio-83-comunicacion-empatia-devrel-audios-mp3_rf_71267519_1.html):
