@@ -9,6 +9,18 @@
 ##### Mentor | Community Builder | DevRel | Scrum Master | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
+###### 🎙️ [Brillitech](https://twitter.com/brillitech) Founder:
+
+<div align="left">
+    <img src="/Brillitech1.png" align="center" width="30%" />
+</div>
+
+###### 🎙️ Host in [AlcarriaConf 2021](https://www.alcarriaconf.com/):
+
+<div align="left">
+    <img src="/Alcarriaconf.png" align="center" width="30%" />
+</div>
+
 ###### 🎙️ Podcast [PEUM](https://www.ivoox.com/episodio-83-comunicacion-empatia-devrel-audios-mp3_rf_71267519_1.html):
 
 <div align="left">
