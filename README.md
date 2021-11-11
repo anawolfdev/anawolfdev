@@ -45,7 +45,7 @@
   </a>
 </div>
 
-###### - 🔭 I’m currently looking for a Community Builder/DevRel or People Lead/Software Engigeering Manager position
+###### - 🔭 I’m currently looking for a Community Builder/DevRel or People Lead position
 ###### - 👯 I actively collaborate in the Dev community
 ###### - 💬 Ask me about mentoring
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
