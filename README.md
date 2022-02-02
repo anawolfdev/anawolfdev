@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="/newbanner.png" align="center" width="80%" />
+  <img src="/002_1Copia.jpg" align="center" width="80%" />
 </div>
 
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
-##### Mentor | Community Builder | DevRel | Scrum Master | FrontEnd Dev | SysAdmin
+##### Tech Community Builder | Mentor | Scrum Master | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 🎙️ [Brillitech](https://twitter.com/brillitech) Founder:
