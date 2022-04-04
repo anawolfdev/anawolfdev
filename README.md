@@ -6,7 +6,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
-##### Tech Community Builder | Mentor | Scrum Master | FrontEnd Dev | SysAdmin
+##### Community Builder @ [rviewer](https://rviewer.io/) | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 🎙️ [Brillitech](https://twitter.com/brillitech) Founder:
@@ -45,7 +45,7 @@
   </a>
 </div>
 
-###### - 🔭 I’m currently looking for a Community Builder/DevRel or People Lead position
+###### - 🔭 I’m currently working as a community builder @ [rviewer](https://rviewer.io/)
 ###### - 👯 I actively collaborate in the Dev community
 ###### - 💬 Ask me about mentoring
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
