@@ -6,7 +6,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="40%" />
 </div>
 
-##### Community Builder @ [rviewer](https://rviewer.io/) | FrontEnd Dev | SysAdmin
+##### Community Builder | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
 ###### 🎙️ [Brillitech](https://twitter.com/brillitech) Founder:
