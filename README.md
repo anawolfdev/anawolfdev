@@ -61,7 +61,7 @@
   </a>
 </div>
 
-###### - 🔭 I’m currently working as a community builder @ [rviewer](https://rviewer.io/)
+###### - 🔭 I’m currently working as a community builder
 ###### - 👯 I actively collaborate in the Dev community
 ###### - 💬 Ask me about mentoring
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
