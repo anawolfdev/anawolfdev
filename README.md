@@ -9,19 +9,35 @@
 ##### Community Builder | FrontEnd Dev | SysAdmin
 ###### I contribute to the Dev community by helping them and supporting small communities to increase their potential and connect them through communication, respect and humility
 
-###### 🎙️ [Brillitech](https://twitter.com/brillitech) Founder:
+###### 🎙️ DevRel, community & emotions - Podcast [@NocodeHackers](https://www.nocodehackers.es/):
 
 <div align="left">
-    <img src="/Brillitech1.png" align="center" width="30%" />
+  <a href="https://anchor.fm/nocodehackers/episodes/28---Ana-Amaro---Devreel--comunidad-y-emociones-en-el-sector-Tech-e1cod3g" target="blank">
+    <img src="/Devrel.png" align="center" width="30%" />
+  </a>
 </div>
 
-###### 🎙️ Host in [AlcarriaConf 2021](https://www.alcarriaconf.com/):
+###### 📹 Experiences in Dev Teams [@CodelyTV](https://codely.com/):
+
+<div align="left">
+  <a href="https://youtu.be/nsc91smj9wQ" target="blank">
+    <img src="/Devteams.png" align="center" width="30%" />
+  </a>
+</div>
+
+###### 🏳️‍🌈 [Brillitech](https://twitter.com/brillitech) Founder:
+
+<div align="left">
+    <img src="/Brillitech.png" align="center" width="30%" />
+</div>
+
+###### 🗣 Host in [@AlcarriaConf 2021](https://www.alcarriaconf.com/):
 
 <div align="left">
     <img src="/Alcarriaconf.png" align="center" width="30%" />
 </div>
 
-###### 🎙️ Podcast [PEUM](https://www.ivoox.com/episodio-83-comunicacion-empatia-devrel-audios-mp3_rf_71267519_1.html):
+###### 🎙️ Podcast [@PEUM](https://www.ivoox.com/episodio-83-comunicacion-empatia-devrel-audios-mp3_rf_71267519_1.html):
 
 <div align="left">
   <a href="https://youtu.be/7fZGkV876SU" target="blank">
@@ -29,7 +45,7 @@
   </a>
 </div>
 
-###### 🗣 Talking about Tech Community [CodeNoobs Conf 2021](https://codenoobsconf.com/):
+###### 📹 Talking about Tech Community [@CodeNoobs Conf 2021](https://codenoobsconf.com/):
 
 <div align="left">
   <a href="https://youtu.be/2Oe0RGUbKfg" target="blank">
