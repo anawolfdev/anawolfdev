@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/002_1Copia.jpg" align="center" width="80%" />
+  <img src="/anawolfdev.jpg" align="center" width="80%" />
 </div>
 
 <div align="center">
@@ -61,7 +61,7 @@
   </a>
 </div>
 
-###### - 🔭 I’m currently working as a community builder
+###### - 🔭 I'm currently looking for a new community builder position
 ###### - 👯 I actively collaborate in the Dev community
 ###### - 💬 Ask me about mentoring
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
