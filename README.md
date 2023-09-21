@@ -68,6 +68,6 @@
 ###### - 😄 Pronouns: She/Her
 ###### - ⚡ Fun fact: I love to dance and Marvel movies
 
-[![Anawolfdev's github stats](https://github-readme-stats.vercel.app/api?username=AnaAmaro&show_icons=true&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
+[![Anawolfdev's github stats](https://github-readme-stats.vercel.app/api?username=anawolfdev&show_icons=true&theme=vue)](https://github.com/anawolfdev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaAmaro&layout=compact&theme=vue)](https://github.com/AnaAmaro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anawolfdev&layout=compact&theme=vue)](https://github.com/anawolfdev/github-readme-stats)
