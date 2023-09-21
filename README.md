@@ -63,7 +63,7 @@
 
 ###### - 🔭 I'm currently working at Garaje de Ideas Company as a Tech Community Builder
 ###### - 👯 I actively collaborate in the Dev community
-###### - 💬 Ask me about mentoring
+###### - 💬 Ask me about my services
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
 ###### - 😄 Pronouns: She/Her
 ###### - ⚡ Fun fact: I love to dance and Marvel movies
