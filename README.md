@@ -61,12 +61,13 @@
   </a>
 </div>
 
-###### - 🔭 I'm currently working at Garaje de Ideas Company as a Tech Community Builder
-###### - 👯 I actively collaborate in the Dev community
+###### - 🔭 I'm looking for a new attractive and cool Tech Community Builder position
+###### - 👯 I actively collaborate in the Dev community & LGBTQ+ community
+###### - 🦯 I'm interesting in accessibility focused on visibility disability
 ###### - 💬 Ask me about my services
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
 ###### - 😄 Pronouns: She/Her
-###### - ⚡ Fun fact: I love to dance and Marvel movies
+###### - ⚡ Fun fact: I love speciality coffee, matcha, books, gym and asian culture: kpop, kdramas & anime
 
 [![Anawolfdev's github stats](https://github-readme-stats.vercel.app/api?username=anawolfdev&show_icons=true&theme=vue)](https://github.com/anawolfdev/github-readme-stats)
 
