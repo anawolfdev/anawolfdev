@@ -15,7 +15,3 @@
 ###### - 📫 How to reach me: amarovazquezana@gmail.com
 ###### - 😄 Pronouns: She/Her
 ###### - ⚡ Fun fact: I love speciality coffee, matcha, books, gym and asian culture: kpop, kdramas & anime
-
-[![Anawolfdev's github stats](https://github-readme-stats.vercel.app/api?username=anawolfdev&show_icons=true&theme=vue)](https://github.com/anawolfdev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anawolfdev&layout=compact&theme=vue)](https://github.com/anawolfdev/github-readme-stats)
